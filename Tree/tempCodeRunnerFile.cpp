@@ -1,0 +1,1 @@
+start->left = new Node(40);
